@@ -6,7 +6,7 @@ function esTipoDato(valor) {
   var tipo= typeof valor
   return tipo 
 }
-const valor=42
+const valor= 8.67
 
 console.log(esTipoDato(valor))
 module.exports = esTipoDato;
