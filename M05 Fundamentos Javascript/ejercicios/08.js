@@ -16,7 +16,7 @@ function esNumeroEntero(numero) {
   }
 }
 
-const numero= 7.8
+let numero= 9
 
 
 console.log(esNumeroEntero(numero))
